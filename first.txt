@@ -1,6 +1,2 @@
 This is my first file
-Making a change to commit
-Trying again
-Trying another URL
-again and again
-and again
+trying again!
